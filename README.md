@@ -1,0 +1,1 @@
+# zsh-gitlab-completion
